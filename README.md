@@ -11,7 +11,7 @@ This repository contains my solutions to the **Neetcode Blind 150** problems. Th
 
 | Category             | Number of Problems |
 |----------------------|-------------------|
-| Arrays & Hashing    | 0 / 12 ✅         |
+| Arrays & Hashing    | 1 / 12 ✅         |
 | Two Pointers        | 0 / 10 ✅         |
 | Sliding Window      | 0 / 6 ✅          |
 | Stack              | 0 / 8 ✅          |
