@@ -7,7 +7,7 @@
 This repository contains my solutions to the **Neetcode Blind 150** problems. The goal is to build strong problem-solving skills by tackling **data structures & algorithms** questions commonly asked in **FAANG** and top tech interviews.
 
 ## 🏆 Progress
-![Progress](https://img.shields.io/badge/Progress-1%2F150-green?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-2%2F150-green?style=for-the-badge)
 
 | Category             | Number of Problems |
 |----------------------|-------------------|
