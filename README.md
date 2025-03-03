@@ -13,7 +13,7 @@ This repository contains my solutions to the **Neetcode Blind 150** problems. Th
 |----------------------|-------------------|
 | Arrays & Hashing    | 1 / 12 ✅         |
 | Two Pointers        | 0 / 10 ✅         |
-| Sliding Window      | 0 / 6 ✅          |
+| Sliding Window      | 1 / 6 ✅          |
 | Stack              | 0 / 8 ✅          |
 | Binary Search      | 0 / 10 ✅         |
 | Linked List        | 0 / 8 ✅          |
