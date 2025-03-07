@@ -7,13 +7,13 @@
 This repository contains my solutions to the **Neetcode Blind 150** problems. The goal is to build strong problem-solving skills by tackling **data structures & algorithms** questions commonly asked in **FAANG** and top tech interviews.
 
 ## 🏆 Progress
-![Progress](https://img.shields.io/badge/Progress-1%2F150-green?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-2%2F150-green?style=for-the-badge)
 
 | Category             | Number of Problems |
 |----------------------|-------------------|
 | Arrays & Hashing    | 1 / 12 ✅         |
 | Two Pointers        | 0 / 10 ✅         |
-| Sliding Window      | 0 / 6 ✅          |
+| Sliding Window      | 1 / 6 ✅          |
 | Stack              | 0 / 8 ✅          |
 | Binary Search      | 0 / 10 ✅         |
 | Linked List        | 0 / 8 ✅          |
